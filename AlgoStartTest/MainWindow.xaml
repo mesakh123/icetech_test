@@ -1,0 +1,43 @@
+﻿<Window x:Class="AlgoStartTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlgoStartTest"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="532.5" Width="875">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="dataGrid" 
+                  ItemsSource="{Binding}"
+                  HorizontalAlignment="Left" 
+                  MinHeight="412" Margin="52,41,41,41"
+                  VerticalAlignment="Top"
+                  MinWidth="756" 
+                  SelectionChanged="dataGrid_SelectionChanged"
+                  HorizontalScrollBarVisibility="Visible" 
+                  HeadersVisibility="Column" >
+
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="Turquoise"/>
+
+                </Style>
+            </DataGrid.Resources>
+
+            <!--<DataGrid.Columns>
+                <DataGridTextColumn Header="Employee ID" Width="150" Binding="{Binding employeeID}"/>
+                <DataGridTextColumn Header="Employee Name" Width="150" Binding="{Binding employeeName}"/>
+                <DataGridTextColumn Header="Employee Hobby" Width="150" Binding="{Binding employeeHobby}"/>
+                <DataGridTextColumn Header="Employee Sex" Width="150" Binding="{Binding employeeSex}"/>
+                <DataGridTextColumn Header="Employee Address" Width="150" Binding="{Binding employeeAddress}"/>
+                <DataGridTextColumn Header="Employee Phone" Width="150" Binding="{Binding employeePhone}"/>
+            </DataGrid.Columns>-->
+        </DataGrid>
+    </Grid>
+</Window>

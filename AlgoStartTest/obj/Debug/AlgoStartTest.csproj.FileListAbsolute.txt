@@ -1,0 +1,14 @@
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\bin\Debug\AlgoStartTest.exe.config
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\bin\Debug\AlgoStartTest.exe
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\bin\Debug\AlgoStartTest.pdb
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\AlgoStartTest.csprojAssemblyReference.cache
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\MainWindow.g.cs
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\App.g.cs
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\AlgoStartTest_MarkupCompile.cache
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\AlgoStartTest_MarkupCompile.lref
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\MainWindow.baml
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\AlgoStartTest.g.resources
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\AlgoStartTest.Properties.Resources.resources
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\AlgoStartTest.csproj.GenerateResource.cache
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\AlgoStartTest.exe
+C:\Users\CHRISTOS\source\repos\AlgoStartTest\AlgoStartTest\obj\Debug\AlgoStartTest.pdb
